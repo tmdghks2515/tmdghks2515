@@ -1,7 +1,3 @@
-# Hi, i'm  K- web developer
+# Hi there
 
-
-<!---
-tmdghks2515/tmdghks2515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+file:///home/ish/Downloads/_cb7104ba-700c-48c0-a2d4-a7b4f356fe34.jpeg
