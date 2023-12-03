@@ -2,7 +2,7 @@
 ![_cb7104ba-700c-48c0-a2d4-a7b4f356fe34](https://github.com/tmdghks2515/tmdghks2515/assets/69225368/c67e6c05-17f4-4bea-b9b3-9d24cac183bf)
 ### Hi there 👋
 
-I'm Jimmy Lim. work as a full stack developer.
+I'm Anan Lim. work as a full stack developer.
 
 <hr/>
 🌱 Technologies:<br><br>
